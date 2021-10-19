@@ -1,0 +1,61 @@
+.navbar-toggler {
+  margin-top: 0px;
+  display: block;
+  font-weight: 700;
+  padding: 30px;
+  background-color: #04D9FF;
+  line-height: 2.5;
+  border: 1px;
+  border-color: white;
+  position: relative;
+  margin-right: 0px;
+  border-radius: 0;
+}
+
+.container-fluid {
+  padding-left: 0px;
+  margin-top: 0px;
+}
+
+.navbar {
+  padding-top: 0px;
+}
+
+.navbar-brand {
+  color: white;
+  margin-right: 0px;
+}
+
+.offcanvas-body {
+  box-sizing: content-box;
+}
+
+button:hover {
+  color: white;
+}
+
+.video {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: auto;
+  height: auto;
+  z-index: -1;
+  background: none no-repeat scroll center center transparent;
+  background-size: cover;
+  min-width: 100%;
+  min-height: 100%;
+  overflow: hidden;
+}
+
+.title{
+  font-family: 'Antic Didone', serif;
+  color: white;
+  font-size: 40px;
+  font-weight: normal;
+  text-transform: uppercase;
+  display: inline;
+  position: absolute;
+  margin-left: 20%;
+  margin-top: 30%;
+}
